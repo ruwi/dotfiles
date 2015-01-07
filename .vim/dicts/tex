@@ -1,0 +1,11 @@
+documentclass[a4paper,12pt]{article}
+usepackage{latexsym}
+usepackage[MeX]{polski}
+usepackage[utf8]{inputenc}% ew. utf8 lub cp1250
+author{Wiktor Wolak}
+title{Info}
+frenchspacing
+begin{document}
+maketitle
+section{}
+end{document}

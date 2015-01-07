@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/ruwi/verbatim'
+let g:netrw_dirhist_2='/home/ruwi/uz/rok05/fizyka_fazy_skondensowanej'
+let g:netrw_dirhist_3='/home/ruwi/roboczy/pore_glasses/nano_particles/code/silica_display/src/silica.egg-info'
+let g:netrw_dirhist_4='/etc'
+let g:netrw_dirhist_5='/home/ruwi/.vim'
